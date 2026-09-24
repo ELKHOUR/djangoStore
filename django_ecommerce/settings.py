@@ -32,6 +32,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
+    '89.251.22.17',
 ]
 
 
